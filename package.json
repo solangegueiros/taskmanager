@@ -1,0 +1,12 @@
+{
+  "name": "TaskManager",
+  "version": "1.0.0",
+  "description": "Solidity project building a Task Manager using Truffle and VSCode",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/solangegueiros/taskmanager.git"
+  },  
+  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box"],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)", 
+  "license": "MIT"
+}
